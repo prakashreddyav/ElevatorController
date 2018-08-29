@@ -10,9 +10,6 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
-#Ignoring Areas folder from shell
-[Ss]hell/[Aa]reas/
-
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -213,34 +210,13 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
-src/UnitTest/Scripts.Tests/Reports/
-src/UnitTest/Scripts.Tests/test-results.testxml
-src/Services/Output
-src/Shell/Areas/
-src/Shell/Scripts/*Plugin/
-src/Shell/Content/*Plugin/
-src/Shell/Scripts/ruleconfig
-src/Shell/Scripts/EagleController
-/src/Shell/Scripts/ai.0.15.0-build58334.js
-/src/Shell/Scripts/ai.0.15.0-build58334.min.js
-/src/Shell/Content/profilestyle
-/src/Shell/Content/Viewerstyles
-/src/Shell/Content/userconfigstyles
-/src/Shell/Scripts/ruleconfig
-/src/Shell/Scripts/ENVRConfigPlugin
-/src/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-src/Plugins/NetAxsConfigPlugin/Controllers/NetAxsConfigController.cs.rej
-src/Shell/Content/Deviceconfigstyles/DeviceConfiguaration.css
-src/Shell/Content/Deviceconfigstyles/bootstrap.css
-src/Shell/Content/Deviceconfigstyles/custom.less
-src/Shell/Content/Deviceconfigstyles/menu.less
-src/Shell/Scripts/ai.0.22.9-build00167.js
-src/Shell/Scripts/ai.0.22.9-build00167.min.js
-/src/Shell/Scripts/EVNRConfig
-/src/Shell/Content/Site.css
-/src/Shell/Scripts/specs/viewermgmt.spec.js
-/src/Shell/Content/PanelConfigurations.xml
-/src/Shell/Scripts/app/uibase-mock.js
-/src/Shell/Content/ControllerSettings.xml
-src/Shell/bundles/
-/src/Shell/Web - Copy.config
+
+App_Data/
+
+# Ignore svcuitl generted files
+*.svcinfo
+*.datasource
+*.wsdl
+*.disco
+*.xsd 
+
