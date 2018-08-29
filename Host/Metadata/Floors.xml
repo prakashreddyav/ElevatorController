@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Floors>
+
+  <Floor>
+    <Id>0</Id>
+    <Name>-2</Name>
+  </Floor>
+  <Floor>
+    <Id>1</Id>
+    <Name>-1</Name>
+  </Floor>
+  <Floor>
+    <Id>2</Id>
+    <Name>0</Name>
+  </Floor>
+  <Floor>
+    <Id>3</Id>
+    <Name>1</Name>
+  </Floor>
+  <Floor>
+    <Id>4</Id>
+    <Name>2</Name>
+  </Floor>
+  <Floor>
+    <Id>5</Id>
+    <Name>3</Name>
+  </Floor>
+  <Floor>
+    <Id>6</Id>
+    <Name>4</Name>
+  </Floor>
+  <Floor>
+    <Id>7</Id>
+    <Name>5</Name>
+  </Floor>
+  <Floor>
+    <Id>8</Id>
+    <Name>6</Name>
+  </Floor>
+  <Floor>
+    <Id>9</Id>
+    <Name>7</Name>
+  </Floor>
+  <Floor>
+    <Id>10</Id>
+    <Name>8</Name>
+  </Floor>
+  <Floor>
+    <Id>11</Id>
+    <Name>9</Name>
+  </Floor>
+  <Floor>
+    <Id>12</Id>
+    <Name>10</Name>
+  </Floor>
+</Floors>

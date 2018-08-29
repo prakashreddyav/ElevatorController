@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Elevators>
+  <Elevator>
+    <Id>0</Id>
+    <Name>E1</Name>
+  </Elevator>
+  <Elevator>
+    <Id>1</Id>
+    <Name>E2</Name>
+  </Elevator>
+  <Elevator>
+    <Id>2</Id>
+    <Name>E3</Name>
+  </Elevator>
+</Elevators>
